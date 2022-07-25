@@ -21,6 +21,6 @@ This folder contains Solution to 3-Tier Architecture for a Web Application.
 3. PaaS services in place
 
 **Resources in each Tier**
-    1. **Presentation Tier** - VM, NSG, NIC.
-    2. **Application Tier**  - VM, NSG, NIC.
-    3. **Data Tier** - SQL Server, 
+1. **Presentation Tier** - VM, NSG, NIC.
+2. **Application Tier**  - VM, NSG, NIC.
+3. **Data Tier** - SQL Server, 
