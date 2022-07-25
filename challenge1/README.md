@@ -9,7 +9,7 @@ This folder contains Solution to 3-Tier Architecture for a Web Application.
 
 **Style**
 1. What all outside users will be able to access in architecture.
-2. Application and ata layers should not be accessible from outside.
+2. Application and data layers should not be accessible from outside.
 3. Have separate subnets between tiers for security.
 4. We will have two subnets , one for presentation and one for application layer in the virtual network.
 
